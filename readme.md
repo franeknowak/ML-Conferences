@@ -18,6 +18,7 @@ This document provides a schedule of key (medical imaging related) AI and ML con
 
 ## Notes
 - Dates marked as **TBA** have not been officially confirmed yet.
+- IPCAI (International Conference on Information Processing in Computer-Assisted Interventions) is organised alongside IJCARS - it was skipped to avoid repetition.
 - For the latest details, visit the official websites of each conference.
 
 ---
