@@ -1,6 +1,6 @@
-# 2025 UCL, i4health CDT conference tracker
+# UCL i4health CDT conference tracker
 
-This document provides a schedule of key (medical imaging related) AI and ML conferences happening in 2025, sorted by date.
+This document provides a schedule of key medical imaging related conferences happening in 2025, sorted by date.
 
 ## Conference Schedule
 
