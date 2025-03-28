@@ -6,7 +6,7 @@ This document provides a schedule of key medical imaging related conferences hap
 
 | Conference | Location | Date | Timeline |
 |------------|----------|------|----------|
-| ~~**ECCV (European Conference on Computer Vision)** | Paris, France | March 26-27, 2025 | [link](https://iser.org.in/conf/index.php?id=2781046) ~~|
+| ~~**ECCV (European Conference on Computer Vision)**~~ | ~~Paris, France~~ | ~~March 26-27, 2025~~ | [link](https://iser.org.in/conf/index.php?id=2781046)|
 | **ICLR (International Conference on Learning Representations)** | Singapore | April 24–28, 2025 | [link](https://www.iclr.cc/Conferences/2025) |
 | **ISBI (IEEE International Symposium on Biomedical Imaging)** | Houston, TX, USA | April 14-17, 2025 | [link](https://biomedicalimaging.org/2025/) |
 | *ISMRM (International Society for Magnetic Resonance in Medicine)* | Honolulu, HI, USA | May 10-15, 2025 | [link](https://www.ismrm.org/25m/) |
@@ -29,6 +29,7 @@ This document provides a schedule of key medical imaging related conferences hap
 ## Notes
 - Dates marked as **TBA** have not been officially confirmed yet.
 - For the latest details, visit the official websites of each conference.
+- ~~crossed out~~, conference has passed
 
 ---
 _Last updated: March 2025_
