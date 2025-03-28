@@ -4,7 +4,7 @@ This document provides a schedule of key medical imaging related conferences hap
 
 ## Conference Schedule
 
-| Conference | Location | Date | Timeline |
+| Conference | Location | Date | Website |
 |------------|----------|------|----------|
 | ~~**ECCV (European Conference on Computer Vision)**~~ | ~~Paris, France~~ | ~~March 26-27, 2025~~ | [link](https://iser.org.in/conf/index.php?id=2781046)|
 | **ICLR (International Conference on Learning Representations)** | Singapore | April 24–28, 2025 | [link](https://www.iclr.cc/Conferences/2025) |
