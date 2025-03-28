@@ -15,6 +15,7 @@ This document provides a schedule of key medical imaging related conferences hap
 | **CVPR (Conference on Computer Vision and Pattern Recognition)** | Nashville, TN, USA | June 10-17, 2025 | [link](https://cvpr.thecvf.com/Conferences/2025/Dates) |
 | **IPCAI (International Conference on Information Processing in Computer-Assisted Interventions)** | Berlin, Germany | June 17-18, 2025 | [link](https://sites.google.com/view/ipcai2025) |
 | *IJCARS (International Journal of Computer Assisted Radiology and Surgery)* | Berlin, Germany | June 17-20, 2025 | [link](https://cars-int.org/authors-information/) |
+| *EAES (International Congress of the European Association for Endoscopic Surgery - Surg. End. Journal)* | Belgrade, Serbia | June 17-20, 2025 | [link](https://eaes.eu/eaes-annual-congress/) |
 | *OHBM (Organization for Human Brain Mapping)* | Brisbane, Australia | June 24-28, 2025 | [link](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229) |
 | **MIDL (Medical Imaging with Deep Learning)** | Salt Lake City, UT, USA | July 9-11, 2025 | [link](https://2025.midl.io/dates) |
 | **ICML (International Conference on Machine Learning)** | Vancouver, Canada | July 13–19, 2025 | [link](https://icml.cc/Conferences/2025/Dates) |
